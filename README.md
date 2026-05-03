@@ -9,7 +9,7 @@ Hoy en día, mi enfoque está en el back-end, donde disfruto trabajando con aná
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 
-- :school: Soy estudiante de Administración de Empresas en la Facultad Abierta Interamericana.
+- :school: Soy estudiante de Ingenieria en Sistemas en la Facultad Abierta Interamericana.
 - :trophy: Apasionado por resolver problemas de manera creativa e innovadora.
 - :technologist: Me encanta usar la tecnología como solución para cualquier desafío.
 - :computer: Estoy desarrollando mis habilidades como programador autodidacta, aprendiendo constantemente.
